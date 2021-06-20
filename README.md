@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/825064369511071785/825469661525049354/1069102.png" width="40%" align="right">
+  <img src="https://cdn.discordapp.com/attachments/827647567507882016/856294545793089546/starfall-gif-46.gif" width="40%" align="right">
   <br><br>
   <samp>
     Oi  eu sou o Expected :wave:
